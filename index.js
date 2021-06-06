@@ -25,6 +25,6 @@ client.cooldowns = new Discord.Collection(); //an collection for cooldown comman
     require(`./handlers/${handler}`)(client);
 });
 //login into the bot
-client.login(require("./botconfig/config.json").token);
+client.login(require("./gitignore/config.json").token);
 
 /** Template by Tomato#6966 | https://github.com/Tomato6966/Discord-Js-Handler-Template */

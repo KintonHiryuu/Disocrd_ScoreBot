@@ -1,5 +1,6 @@
 {
-  "token": "PASTE YOUR TOKEN IN HERE",
-  "prefix": "!",
-  "defaultCommandCooldown" : 1
+  "token": "ODQzMTQ1NjEzMTU5Njk0MzM2.YJ_miw.GyjqiwUmwu9eM7E0ygt-70lTS1E",
+  "prefix": "!!!",
+  "defaultCommandCooldown": 1,
+  "mongodbPath": "mongodb://localhost:27017/discordScorebotBeta"
 }
